@@ -211,7 +211,7 @@ h3 {
     word-wrap: break-word;
     flex-direction: column;
     display: inline;
-    margin-left: 50px;
+    margin-left: 100px;
     margin-top: 30px;
     border: 2px solid #ff5050;
 }
@@ -229,7 +229,7 @@ h3 {
     text-align: center;
     padding: 5px;
     float: left;
-    margin-left: 78px;
+    margin-left: 100px;
     display: block;
     font-family: 'Titulo';
     text-shadow: 2px 2px #ff5050;
